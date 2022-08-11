@@ -3,7 +3,7 @@
 This Repository is owned and maintained by Jacob Rydecki.
 
 This repository contains all the scripts used in an REU project (2022) at New Mexico Institue of Mining and Technology under the mentorship of Dr. Jiztou Tong.  
-I, Jacob Rydecki, and Dr. Tong have worked on developing a method to detect malicious browser extensions by analyzing the static extension source code and using machine learning for classifying browser extensions as malicious or non-malicious.
+Dr. Tong and I have worked on developing a method to detect malicious browser extensions by analyzing the static extension source code and using machine learning for classifying browser extensions as malicious or non-malicious.
 
 Our research is labelled "Detecting Malicious Browser Extensions by Combining Machine Learning and Feature Selection".
 
