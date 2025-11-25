@@ -2,14 +2,19 @@
 
 This Repository is owned and maintained by Jacob Rydecki.
 
-This repository contains all the scripts used in an REU project (2022) at New Mexico Institue of Mining and Technology under the mentorship of Dr. Jiztou Tong. Dr. Tong and I have worked on developing a method to detect malicious browser extensions by analyzing the static extension source code and using machine learning for classifying browser extensions as malicious or non-malicious.
+This repository contains all the scripts used in an REU project (2022) at New Mexico Institue of Mining and Technology 
+under the mentorship of Dr. Jiztou Tong. Dr. Tong and I have worked on developing a method to detect malicious browser 
+extensions by analyzing the static extension source code and using machine learning for classifying browser extensions 
+as malicious or non-malicious.
 
-Our research is labelled "Detecting Malicious Browser Extensions by Combining Machine Learning and Feature Selection".
+Please see our conference papers for more information:
+
+- Rydecki, J., Tong, J., Zheng, J. (2023). Detecting Malicious Browser Extensions by Combining Machine Learning and Feature Engineering. In: Latifi, S. (eds) ITNG 2023 20th International Conference on Information Technology-New Generations. ITNG 2023. Advances in Intelligent Systems and Computing, vol 1445. Springer, Cham. https://doi.org/10.1007/978-3-031-28332-1_13
 
 
-# Our Dataset
+- Zhang, Q., Tong, J., Rydecki, J. (2024). The Comparison of Random Forest and XGBoost in Malicious Browser Extensions Detection in Google Chrome Based on the Feature Importance. In: Arai, K. (eds) Proceedings of the Future Technologies Conference (FTC) 2024, Volume 4. FTC 2024. Lecture Notes in Networks and Systems, vol 1157. Springer, Cham. https://doi.org/10.1007/978-3-031-73128-0_10
 
-We collected the dataset for this project ourselves, which included 5,000 non-malicious webstore extensions and 151 malicious browser extensions. Because of the size of the non-malicious dataset, we were unable to upload it to this repository. We have inlcuded the malicious browser extensions in this repository mostly for backup reasons, because of the challenges in obtaining these extensions. The .zip file of the 151 malicious extensions is encrypted, as it is malware and I do not want to allow anyone to download and use it. If you wish to download and decrypt the malware for some reason, please contact me with the information below.
+
 
 # Contact Information
 
